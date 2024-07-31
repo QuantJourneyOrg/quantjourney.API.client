@@ -37,7 +37,7 @@ async def main():
 asyncio.run(main())
 ```
 
-## Documentation
+## Documentation1G
 
 For more detailed information on using the QuantJourney Framework, please refer to our Wiki.
 
