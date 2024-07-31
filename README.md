@@ -37,7 +37,7 @@ async def main():
 asyncio.run(main())
 ```
 
-## Documentation1G
+## Documentation
 
 For more detailed information on using the QuantJourney Framework, please refer to our Wiki.
 
@@ -60,6 +60,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any questions or support, please email jakub@quantjourney.pro.
+For any questions or support, please email contact@quantjourney.pro.
 
 Happy coding and investing!
